@@ -7,16 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		015EC40129CF6F8100F67ADA /* Parks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015EC40029CF6F8100F67ADA /* Parks.swift */; };
+		015EC40329CF6FD800F67ADA /* ParksViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015EC40229CF6FD800F67ADA /* ParksViewModel.swift */; };
+		015EC40529CF6FFE00F67ADA /* ParkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015EC40429CF6FFE00F67ADA /* ParkDetail.swift */; };
+		015EC40729CF700D00F67ADA /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015EC40629CF700D00F67ADA /* AddressView.swift */; };
+		015EC40929CF701900F67ADA /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015EC40829CF701900F67ADA /* MapView.swift */; };
+		015EC40B29CF702600F67ADA /* ContactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015EC40A29CF702600F67ADA /* ContactView.swift */; };
+		015EC40D29CF703300F67ADA /* ImageCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015EC40C29CF703300F67ADA /* ImageCardView.swift */; };
+		015EC40F29CF709700F67ADA /* ParkModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015EC40E29CF709700F67ADA /* ParkModel.swift */; };
+		015EC41129CF70A800F67ADA /* ContactModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015EC41029CF70A800F67ADA /* ContactModel.swift */; };
+		015EC41329CF70B500F67ADA /* AddressModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015EC41229CF70B500F67ADA /* AddressModel.swift */; };
+		015EC41529CF70C500F67ADA /* ParkImageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015EC41429CF70C500F67ADA /* ParkImageModel.swift */; };
+		015EC41729CF841B00F67ADA /* OperatingHoursModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015EC41629CF841B00F67ADA /* OperatingHoursModel.swift */; };
+		015EC41929CF866300F67ADA /* OperatingHoursView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015EC41829CF866300F67ADA /* OperatingHoursView.swift */; };
+		015EC41B29CFA9F500F67ADA /* EntranceFeeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015EC41A29CFA9F500F67ADA /* EntranceFeeModel.swift */; };
 		ACF5E04029BE957F00DD981A /* Assignment3App.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF5E03F29BE957F00DD981A /* Assignment3App.swift */; };
-		ACF5E04229BE957F00DD981A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF5E04129BE957F00DD981A /* ContentView.swift */; };
 		ACF5E04429BE958000DD981A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACF5E04329BE958000DD981A /* Assets.xcassets */; };
 		ACF5E04729BE958000DD981A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACF5E04629BE958000DD981A /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		015EC40029CF6F8100F67ADA /* Parks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Parks.swift; sourceTree = "<group>"; };
+		015EC40229CF6FD800F67ADA /* ParksViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParksViewModel.swift; sourceTree = "<group>"; };
+		015EC40429CF6FFE00F67ADA /* ParkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkDetail.swift; sourceTree = "<group>"; };
+		015EC40629CF700D00F67ADA /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
+		015EC40829CF701900F67ADA /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		015EC40A29CF702600F67ADA /* ContactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactView.swift; sourceTree = "<group>"; };
+		015EC40C29CF703300F67ADA /* ImageCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCardView.swift; sourceTree = "<group>"; };
+		015EC40E29CF709700F67ADA /* ParkModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkModel.swift; sourceTree = "<group>"; };
+		015EC41029CF70A800F67ADA /* ContactModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactModel.swift; sourceTree = "<group>"; };
+		015EC41229CF70B500F67ADA /* AddressModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressModel.swift; sourceTree = "<group>"; };
+		015EC41429CF70C500F67ADA /* ParkImageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkImageModel.swift; sourceTree = "<group>"; };
+		015EC41629CF841B00F67ADA /* OperatingHoursModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OperatingHoursModel.swift; sourceTree = "<group>"; };
+		015EC41829CF866300F67ADA /* OperatingHoursView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OperatingHoursView.swift; sourceTree = "<group>"; };
+		015EC41A29CFA9F500F67ADA /* EntranceFeeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntranceFeeModel.swift; sourceTree = "<group>"; };
 		ACF5E03C29BE957F00DD981A /* Assignment3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Assignment3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACF5E03F29BE957F00DD981A /* Assignment3App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment3App.swift; sourceTree = "<group>"; };
-		ACF5E04129BE957F00DD981A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ACF5E04329BE958000DD981A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACF5E04629BE958000DD981A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -32,6 +58,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		015EC3EA29CE2F9800F67ADA /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				015EC40E29CF709700F67ADA /* ParkModel.swift */,
+				015EC41029CF70A800F67ADA /* ContactModel.swift */,
+				015EC41229CF70B500F67ADA /* AddressModel.swift */,
+				015EC41429CF70C500F67ADA /* ParkImageModel.swift */,
+				015EC41629CF841B00F67ADA /* OperatingHoursModel.swift */,
+				015EC41A29CFA9F500F67ADA /* EntranceFeeModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		015EC3ED29CE370E00F67ADA /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				015EC40029CF6F8100F67ADA /* Parks.swift */,
+				015EC40429CF6FFE00F67ADA /* ParkDetail.swift */,
+				015EC40629CF700D00F67ADA /* AddressView.swift */,
+				015EC40829CF701900F67ADA /* MapView.swift */,
+				015EC40A29CF702600F67ADA /* ContactView.swift */,
+				015EC40C29CF703300F67ADA /* ImageCardView.swift */,
+				015EC41829CF866300F67ADA /* OperatingHoursView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		ACF5E03329BE957F00DD981A = {
 			isa = PBXGroup;
 			children = (
@@ -52,7 +105,9 @@
 			isa = PBXGroup;
 			children = (
 				ACF5E03F29BE957F00DD981A /* Assignment3App.swift */,
-				ACF5E04129BE957F00DD981A /* ContentView.swift */,
+				015EC40229CF6FD800F67ADA /* ParksViewModel.swift */,
+				015EC3EA29CE2F9800F67ADA /* Models */,
+				015EC3ED29CE370E00F67ADA /* Views */,
 				ACF5E04329BE958000DD981A /* Assets.xcassets */,
 				ACF5E04529BE958000DD981A /* Preview Content */,
 			);
@@ -137,8 +192,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ACF5E04229BE957F00DD981A /* ContentView.swift in Sources */,
+				015EC41929CF866300F67ADA /* OperatingHoursView.swift in Sources */,
+				015EC41329CF70B500F67ADA /* AddressModel.swift in Sources */,
+				015EC40529CF6FFE00F67ADA /* ParkDetail.swift in Sources */,
+				015EC40929CF701900F67ADA /* MapView.swift in Sources */,
+				015EC41729CF841B00F67ADA /* OperatingHoursModel.swift in Sources */,
 				ACF5E04029BE957F00DD981A /* Assignment3App.swift in Sources */,
+				015EC40129CF6F8100F67ADA /* Parks.swift in Sources */,
+				015EC41529CF70C500F67ADA /* ParkImageModel.swift in Sources */,
+				015EC40B29CF702600F67ADA /* ContactView.swift in Sources */,
+				015EC40329CF6FD800F67ADA /* ParksViewModel.swift in Sources */,
+				015EC40D29CF703300F67ADA /* ImageCardView.swift in Sources */,
+				015EC40F29CF709700F67ADA /* ParkModel.swift in Sources */,
+				015EC41129CF70A800F67ADA /* ContactModel.swift in Sources */,
+				015EC41B29CFA9F500F67ADA /* EntranceFeeModel.swift in Sources */,
+				015EC40729CF700D00F67ADA /* AddressView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
